@@ -1,0 +1,5 @@
+package structures;
+
+public enum SubServicesTypes {
+    SERVER_AVAILABILITY, HOST_AVAILABILITY, DNS_TESTING, WEB_SERVER_TESTING, PROXY_SERVER_TESTING
+}
