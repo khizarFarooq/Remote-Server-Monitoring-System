@@ -8,5 +8,4 @@ A Web app and Hybrid app which is able to monitor servers (Web, DNS, Proxy ) rem
 4. JAVA SCRIPT
 
 # Technologies Used for Hybrid App
-1. XML
-2. JAVA
+Android
